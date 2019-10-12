@@ -1,4 +1,4 @@
-# csrf-double-submit-cookies-pattern
+# CSRF - Double Submit Cookies Pattern
 A simple web application to prevent Cross-Site Request Forgery based on php and javascript.
 
 ## How to install
